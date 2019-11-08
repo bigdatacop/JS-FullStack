@@ -1,5 +1,5 @@
-# Git-Web-Job
-## From Brad Schiff's Udemy Course - Git a Web Developer Job
+# JS-FullStack
+## From Brad Schiff's Udemy Course - JS Full Stack from Scratch
 ### Initial steps
 Review the console in Chrome and some initial tests with node.js cmd
 test.js has the learning steps

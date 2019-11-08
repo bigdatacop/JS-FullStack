@@ -1,4 +1,4 @@
-// From Brad Schiff's Udemy Course - Git a Web Developer Job
+// From Brad Schiff's Udemy Course - JavaScript Full Stack
 let http = require("http")
 
 let ourApp = http.createServer(function (req, res) {
